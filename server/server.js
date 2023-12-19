@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import db from "./database.js";
 import individualRouter from "./routes/individualRouter.js";
-import poolRouter from "./routes/poolRouter.js";
+import poolRouter from "./poolRouter.js";
 import timeslotRouter from "./routes/timeslotRouter.js";
 import locationRouter from "./routes/locationRouter.js";
 import gameRouter from "./routes/gameRouter.js";

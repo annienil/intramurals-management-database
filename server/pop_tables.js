@@ -1,4 +1,4 @@
-import db from "./database.js";
+import db from "../../intramurals-management-database/server/database.js/index.js";
 
 db.initDb();
 
