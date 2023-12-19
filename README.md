@@ -1,4 +1,5 @@
-Intramurals Management Database:
+# Intramurals Management Database:
 
 Created for CPSC 304 in collaboration with two other students.
+
 Our project models an academic institution’s intramural sports program, providing the required management for its sports, staff, and player logistics. It models seven core components: participant and official management, locations, games, teams, and activities. The project has a visually cohesive graphical user interface that is fully integrated with our backend, along with display components showing every aspect of the database. All components can be created and deleted, and edited within reason. Additionally, there is a search function, allowing the user to search for specific individuals within the database, and filtering functions. The project is applicable to a wide range of institutions and programs, and can be scaled up and down in response to the size of the program.
